@@ -177,7 +177,7 @@ Demonstrated software engineering competency through coding assessments and prac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha31127&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -187,7 +187,7 @@ Demonstrated software engineering competency through coding assessments and prac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=isha31127&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
