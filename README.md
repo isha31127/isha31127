@@ -211,28 +211,27 @@ Demonstrated software engineering competency through coding assessments and prac
 
 </div>
 
-# 🚀 Current Focus
+#  Current Focus
 
+###  Learning
+- Data Structures & Algorithms
+- Machine Learning
+- Generative AI
+- Software Engineering
 
-### 📚 Learning
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative-AI-purple?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-green?style=flat-square)
-
-### 🛠️ Building
+###  Building
 - AI-Powered Applications
 - Recommendation Systems
 - ML Deployment Systems
 - Open Source Projects
 
-### 🔍 Exploring
+###  Exploring
 - Explainable AI
 - LLM Applications
 - MLOps
 - Software Design Principles
 
-### 🤝 Open To
+###  Open To
 - Software Engineering Roles
 - AI/ML Engineering Roles
 - Technical Opportunities
