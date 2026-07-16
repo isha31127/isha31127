@@ -211,38 +211,33 @@ Demonstrated software engineering competency through coding assessments and prac
 
 </div>
 
----
+# 🚀 Current Focus
 
-# Current Focus
 
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Generative AI
-  - Software Engineering
+### 📚 Learning
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-green?style=flat-square)
 
-Building:
-  - AI-Powered Applications
-  - Recommendation Systems
-  - ML Deployment Systems
-  - Open Source Projects
+### 🛠️ Building
+- AI-Powered Applications
+- Recommendation Systems
+- ML Deployment Systems
+- Open Source Projects
 
-Exploring:
-  - Explainable AI
-  - LLM Applications
-  - MLOps
-  - Software Design Principles
+### 🔍 Exploring
+- Explainable AI
+- LLM Applications
+- MLOps
+- Software Design Principles
 
-Open_To:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Technical Opportunities
-  - Internship Opportunities
-  - Open Source Collaboration
-```
-
----
+### 🤝 Open To
+- Software Engineering Roles
+- AI/ML Engineering Roles
+- Technical Opportunities
+- Internship Opportunities
+- Open Source Collaboration
 
 # Connect
 
