@@ -39,7 +39,8 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operat
 
 ## AI & ML
 <p align="center">
-Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css" />
+<!-- Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI -->
 </p>
 ## Tools
 <p align="center">
