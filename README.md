@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=MCA+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Problem+Solver;Building+AI-Powered+Applications"/>
 
 
-![](https://komarev.com/ghpvc/?username=isha31127)
+
 
 
 # Academic Badges
